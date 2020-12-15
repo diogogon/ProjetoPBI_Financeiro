@@ -9,7 +9,7 @@ Income statement, prof and loss statement ou PnL: demonstração de resultado do
 Páginas principais:
 1. Home: 
 
-![teste](width="650" height="400" src="Home.gif")
+Um template construído no PowerPoint salvo na extensão .svg, .png, ou .jpg.
 
 <img src="https://raw.githubusercontent.com/diogogon/myProject_Week_PBI_Karpinski/main/Home.gif" width="650" height="400">
 
