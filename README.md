@@ -10,6 +10,8 @@ Páginas principais:
 1. Home: 
 
 Um template construído no PowerPoint salvo na extensão .svg, .png, ou .jpg.
+* Design > Tamanho do slide: widescreen 16:9
+
 <img src="https://raw.githubusercontent.com/diogogon/myProject_Week_PBI_Karpinski/main/PowerPoint.png" width="650">
 
 <img src="https://raw.githubusercontent.com/diogogon/myProject_Week_PBI_Karpinski/main/Home.gif" width="650" height="400">
