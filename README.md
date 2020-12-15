@@ -14,9 +14,13 @@ O dashboard completo pode ser visto a seguir:
 <p></p>
 
 #### Bibliografia
-O arquivo original do dataset .csv mais o desafio proposto estão no curso gratuito Microsoft Power BI para Data Science Versão 2.0 oferecido pela DSA. Os arquivos originais são postos de maneira didática e há problemas propositais que simulam a vida real do profissional. Apoie o trabalho.
+[POWER BI Buttons with animation](https://prathy.com/2020/08/powerbi-buttons-with-animation/) by Prathy Kamasani, August 25, 2020
 
-*OBS: Minha solução já está com todas as modificações que eu julgo correta para a análise dos dados, tanto o dataset como o problema.*
+Criando um template do zero raphael.silva.pacheco devAnalytics 17 de abr. de 2019 
+
+video: https://www.youtube.com/watch?v=fMrVBEUFCgg
+
+Power BI - Criando um Menu de Filtros Retrátil 22 de abr. de 2019 https://www.youtube.com/watch?v=xiNJg7NxC7Y
 
 #### Autor
 *Diogo Gonçalves*
