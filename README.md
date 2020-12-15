@@ -13,29 +13,17 @@ O dashboard completo pode ser visto a seguir:
 
 <p></p>
 
-#### Bibliografia
+### Bibliografia
 [POWER BI Buttons with animation](https://prathy.com/2020/08/powerbi-buttons-with-animation/) by Prathy Kamasani, August 25, 2020
 
 [Criando um template do zero](https://www.youtube.com/watch?v=fMrVBEUFCgg) by devAnalytics, Raphael Silva Pacheco, 17 de abr. de 2019 
 
-  [Power BI - Criando um Menu de Filtros Retrátil](https://www.youtube.com/watch?v=xiNJg7NxC7Y) 22 de abr. de 2019
+[Power BI - Criando um Menu de Filtros Retrátil](https://www.youtube.com/watch?v=xiNJg7NxC7Y) by devAnalytics, Raphael Silva Pacheco, 22 de abr. de 2019
 
-
-<details>
-  <summary>Example</summary>
-
-  ```
-  bb
-  ```
-</details>
-
-
-
-
-#### Autor
+### Autor
 *Diogo Gonçalves*
 > E-mail: dio.goncalves90@gmail.com
 
-> Github: https://github.com/diogogon
+> Github: (https://github.com/diogogon)
 
-> Linkedin: www.linkedin.com/in/diogogon
+> Linkedin: (www.linkedin.com/in/diogogon)
