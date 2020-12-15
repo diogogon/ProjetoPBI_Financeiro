@@ -9,7 +9,7 @@ Income statement, prof and loss statement ou PnL: demonstração de resultado do
 Páginas principais:
 1. Home: 
 
-![teste]()
+![teste](Home.gif)
 
 1. Receita e margem bruta:
 
