@@ -20,6 +20,8 @@ Criando um template do zero raphael.silva.pacheco devAnalytics 17 de abr. de 201
 
 video: https://www.youtube.com/watch?v=fMrVBEUFCgg
 
+<iframe width="650" height="400" src="https://www.youtube.com/embed/fMrVBEUFCgg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Power BI - Criando um Menu de Filtros Retrátil 22 de abr. de 2019 https://www.youtube.com/watch?v=xiNJg7NxC7Y
 
 #### Autor
