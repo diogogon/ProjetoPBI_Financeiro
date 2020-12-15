@@ -3,13 +3,9 @@
 <h5 align="right"> Workshop L. Karpinski: Power BI Experience  </h5>
 <h5 align="right"> 23 - 27 de novembro de 2020 </h5>
 
-Income statement, prof and loss statement, PnL: demonstração de resultados do exercício ou DRE.
+Income statement, prof and loss statement ou PnL: demonstração de resultado do exercício ou DRE.
 
-<p align="justify"> Para demonstrar essas situações hipotéticas foi proposto KPI's interativos, que tomam como ponto de partida a média total de cada variável (IMC e gastos), travado a alguns filtros de forma intencional: </p>
-
-*Media_**gasto**_regiao = CALCULATE(**AVERAGE**('Seguro de saúde'[Valor do seguro de saúde]),ALL('Seguro de saúde'[Sexo]),ALL('Seguro de saúde'[Região]))*
-
-*Media_**IMC**_faixa = CALCULATE(**AVERAGE**('Seguro de saúde'[IMC]),ALL('Seguro de saúde'[Sexo]),ALL('Seguro de saúde'[Faixa de idades]))*
+<p align="justify"> Definir estratégias e ações;Realizar a comparação da situação atual da empresa com a de épocas anteriores;Avaliar disparidades relacionadas a receitas e gastos, faturamento e dificuldades de gestão.Esse demonstrativo é utilizado como referência para comparar o desempenho da empresa em relação a períodos anteriores, e não a outros negócios. Embora seu uso seja principalmente interno, o P&L é um dos três relatórios essenciais que uma empresa de capital aberto precisa publicar periodicamente. Isto juntamente com o fluxo de caixa e o balanço. A comparação entre esses documentos pode revelar desencontros entre os gastos e as receitas, mudanças na curva de faturamento e outros sintomas de problemas financeiros.</p>
 
 O dashboard completo pode ser visto a seguir:
 
