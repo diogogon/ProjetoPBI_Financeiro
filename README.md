@@ -18,7 +18,7 @@ O dashboard completo pode ser visto a seguir:
 
 [Criando um template do zero](https://www.youtube.com/watch?v=fMrVBEUFCgg) by devAnalytics, Raphael Silva Pacheco, 17 de abr. de 2019 
 
-[Power BI - Criando um Menu de Filtros Retrátil](https://www.youtube.com/watch?v=xiNJg7NxC7Y) by devAnalytics, Raphael Silva Pacheco, 22 de abr. de 2019
+[Criando um Menu de Filtros Retrátil](https://www.youtube.com/watch?v=xiNJg7NxC7Y) by devAnalytics, Raphael Silva Pacheco, 22 de abr. de 2019
 
 ### Autor
 *Diogo Gonçalves*
