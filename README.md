@@ -24,7 +24,7 @@ O arquivo .pbix do dashboard:
 
 <h5 align="right"> Projeto II </h5>
 
-<iframe width="690" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiMGI2OThlMTgtZTMzOS00ZjUyLTgyYTktZmIwZTc0ZmQ2NjI0IiwidCI6IjkwOTJiNThjLWQxNDctNDE4ZC1hMWYxLWZhN2VhZDNkN2ZiMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="650" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiMGI2OThlMTgtZTMzOS00ZjUyLTgyYTktZmIwZTc0ZmQ2NjI0IiwidCI6IjkwOTJiNThjLWQxNDctNDE4ZC1hMWYxLWZhN2VhZDNkN2ZiMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 <h5 align="right"> Projeto II3 </h5>
 
