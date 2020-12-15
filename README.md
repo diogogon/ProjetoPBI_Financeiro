@@ -9,7 +9,7 @@ Income statement, prof and loss statement ou PnL: demonstração de resultado do
 Páginas principais:
 1. Home: 
 
-![teste](<img src="https://github.com/diogogon/myProject_Week_PBI_Karpinski/blob/main/Home.gif">)
+![teste](https://raw.githubusercontent.com/diogogon/myProject_Week_PBI_Karpinski/main/Home.gif)
 
 1. Receita e margem bruta:
 
