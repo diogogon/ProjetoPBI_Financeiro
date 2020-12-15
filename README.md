@@ -24,7 +24,7 @@ Mudança no template, painel de filtro e painel de dicionário²³.
 <img src="https://raw.githubusercontent.com/diogogon/myProject_Week_PBI_Karpinski/main/IncomeStatement.gif">
 
 ### Financial simulator:
-<p align="justify"> Eliminação de distrações ocasionada principalmente pelo conjunto de dados em tabela, tratamento de cores e organização do *layout* em busca de um visual mais *clean*.</p>
+<p align="justify"> Eliminação de distrações ocasionada principalmente pelo conjunto de dados em tabela, tratamento de cores e organização do <i>layout</i> em busca de um visual mais *clean*.</p>
 
 <p align="justify"> O visual gráfico "Bullet Chart by OKVIZ" nos permite interpretar de forma mais direta e simples possível com uma comparação de barras sobrepostas de cada cenário. Somado a isso, foi dado ênfase no "KPI" que mostra de fato o resultado da análise e faz uma comparação direta com a meta.</p>
 
