@@ -3,9 +3,7 @@
 <h5 align="right"> Workshop L. Karpinski: Power BI Experience  </h5>
 <h5 align="right"> 23 - 27 de novembro de 2020 </h5>
 
-<p align="center"> <img src="https://github.com/diogogon/projeto-1/blob/main/Text.png">
-
-## dada
+Income statement, prof and loss statement, PnL: demonstração de resultados do exercício ou DRE.
 
 <p align="justify"> Para demonstrar essas situações hipotéticas foi proposto KPI's interativos, que tomam como ponto de partida a média total de cada variável (IMC e gastos), travado a alguns filtros de forma intencional: </p>
 
@@ -16,8 +14,6 @@
 O dashboard completo pode ser visto a seguir:
 
 <iframe width="650" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiMGI2OThlMTgtZTMzOS00ZjUyLTgyYTktZmIwZTc0ZmQ2NjI0IiwidCI6IjkwOTJiNThjLWQxNDctNDE4ZC1hMWYxLWZhN2VhZDNkN2ZiMCJ9" frameborder="0" allowFullScreen="true"></iframe>
-
-
 
 #### Bibliografia
 O arquivo original do dataset .csv mais o desafio proposto estão no curso gratuito Microsoft Power BI para Data Science Versão 2.0 oferecido pela DSA. Os arquivos originais são postos de maneira didática e há problemas propositais que simulam a vida real do profissional. Apoie o trabalho.
