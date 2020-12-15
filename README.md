@@ -24,9 +24,9 @@ O arquivo .pbix do dashboard:
 
 <h5 align="right"> Projeto II </h5>
 
-<iframe width="700" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiMGI2OThlMTgtZTMzOS00ZjUyLTgyYTktZmIwZTc0ZmQ2NjI0IiwidCI6IjkwOTJiNThjLWQxNDctNDE4ZC1hMWYxLWZhN2VhZDNkN2ZiMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="690" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiMGI2OThlMTgtZTMzOS00ZjUyLTgyYTktZmIwZTc0ZmQ2NjI0IiwidCI6IjkwOTJiNThjLWQxNDctNDE4ZC1hMWYxLWZhN2VhZDNkN2ZiMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-<h5 align="right"> Projeto II </h5>
+<h5 align="right"> Projeto II3 </h5>
 
 #### Bibliografia
 O arquivo original do dataset .csv mais o desafio proposto estão no curso gratuito Microsoft Power BI para Data Science Versão 2.0 oferecido pela DSA. Os arquivos originais são postos de maneira didática e há problemas propositais que simulam a vida real do profissional. Apoie o trabalho.
