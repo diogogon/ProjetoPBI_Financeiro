@@ -5,6 +5,8 @@
 
 <p align="center"> <img src="https://github.com/diogogon/projeto-1/blob/main/Text.png">
 
+## dada
+
 - [X] Se for homem, na faixa de 20 a 59 anos e da região Sudeste, o gasto é maior ou menor que a média de gastos da região?
 
 <p align="justify"> Para demonstrar essas situações hipotéticas foi proposto KPI's interativos, que tomam como ponto de partida a média total de cada variável (IMC e gastos), travado a alguns filtros de forma intencional: </p>
@@ -19,14 +21,11 @@ O dashboard completo pode ser visto a seguir:
 
 <p align="center"> <img src="https://github.com/diogogon/projeto-1/blob/main/Visual_geral.png">
 
-O arquivo .pbix do dashboard:
-[projeto I PBI: Análise de gastos na saúde](https://app.powerbi.com/view?r=eyJrIjoiMGI2OThlMTgtZTMzOS00ZjUyLTgyYTktZmIwZTc0ZmQ2NjI0IiwidCI6IjkwOTJiNThjLWQxNDctNDE4ZC1hMWYxLWZhN2VhZDNkN2ZiMCJ9)
 
-<h5 align="right"> Projeto IIa </h5>
 
 <iframe width="650" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiMGI2OThlMTgtZTMzOS00ZjUyLTgyYTktZmIwZTc0ZmQ2NjI0IiwidCI6IjkwOTJiNThjLWQxNDctNDE4ZC1hMWYxLWZhN2VhZDNkN2ZiMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-<h5 align="right"> Projeto II3 </h5>
+
 
 #### Bibliografia
 O arquivo original do dataset .csv mais o desafio proposto estão no curso gratuito Microsoft Power BI para Data Science Versão 2.0 oferecido pela DSA. Os arquivos originais são postos de maneira didática e há problemas propositais que simulam a vida real do profissional. Apoie o trabalho.
