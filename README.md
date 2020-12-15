@@ -10,12 +10,12 @@ Income statement, prof and loss statement ou PnL: demonstração de resultado do
 O que há de diferente no dashboard do PowerBI Week?
 
 ### Home
-Criação de uma tela inicial para o relatório.
+Criação de uma tela inicial para o relatório com botões dinâmicos¹.
 
 <img src="https://raw.githubusercontent.com/diogogon/myProject_Week_PBI_Karpinski/main/Home.gif" width="650" height="400">
 
 ### Revenue & Margin Analysis
-Mudança no template, painel de filtro e painel de dicionário.
+Mudança no template, painel de filtro e painel de dicionário²³.
 
 ### Income Statement: 
 
@@ -28,11 +28,11 @@ O dashboard completo pode ser visto a seguir:
 <p></p>
 
 ### Bibliografia
-[POWER BI Buttons with animation](https://prathy.com/2020/08/powerbi-buttons-with-animation/) by Prathy Kamasani, August 25, 2020
+[¹POWER BI Buttons with animation](https://prathy.com/2020/08/powerbi-buttons-with-animation/) by Prathy Kamasani, August 25, 2020
 
-[Criando um template do zero](https://www.youtube.com/watch?v=fMrVBEUFCgg) by devAnalytics, Raphael Silva Pacheco, 17 de abr. de 2019 
+[²Criando um template do zero](https://www.youtube.com/watch?v=fMrVBEUFCgg) by devAnalytics, Raphael Silva Pacheco, 17 de abr. de 2019 
 
-[Criando um Menu de Filtros Retrátil](https://www.youtube.com/watch?v=xiNJg7NxC7Y) by devAnalytics, Raphael Silva Pacheco, 22 de abr. de 2019
+[³Criando um Menu de Filtros Retrátil](https://www.youtube.com/watch?v=xiNJg7NxC7Y) by devAnalytics, Raphael Silva Pacheco, 22 de abr. de 2019
 
 ### Autor
 *Diogo Gonçalves*
