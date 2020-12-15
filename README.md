@@ -23,7 +23,5 @@ O dashboard completo pode ser visto a seguir:
 ### Autor
 *Diogo Gonçalves*
 > E-mail: dio.goncalves90@gmail.com
-
-> Github: (https://github.com/diogogon)
-
-> Linkedin: (www.linkedin.com/in/diogogon)
+> [Github](https://github.com/diogogon)
+> [Linkedin](www.linkedin.com/in/diogogon)
