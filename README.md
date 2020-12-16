@@ -18,7 +18,9 @@
 >> Remoção do total e subtotais das contas com os valores: como são cálculos, eles serão calculados por medidas.
 >> * Os subtotais estão em linhas, vamos eliminá-las de acordo com a “duração” (Lenght) do id deles, ou seja, a quantidade de elementos de cada “célula” da coluna. O total está em coluna. Somente remover.<br>
 >>
->> Transformar outras colunas em linhas (unpivot): o conjunto original está em forma de matriz como para os dados clássicos em excel com 3 variáveis: conta, data e valor. No final ficaremos com apenas 3 colunas, em vez de 13, com essas mesmas variáveis. Exemplo:
+>> Transformar outras colunas em linhas (unpivot): o conjunto original está em forma de matriz como para os dados clássicos em excel com 3 variáveis: conta, data e valor. No final ficaremos com apenas 3 colunas, em vez de 13, com essas mesmas variáveis.
+
+Exemplo de unpivot de olho na coluna "Conta":
 
 Conta     | Data1 |Data2|Data3
 --------- | ------|-----|-----
@@ -36,13 +38,9 @@ Exemplo 2 | Data2 |R$  7
 Exemplo 2 | Data3 |R$  7
 Exemplo 2 | Data3 |R$ 10
 
-3)	Modelagem: 
-Raciocínio crítico dos relacionamentos entre tabela fato e dimensões. No projeto, todos 1 para *.
+>	Modelagem: Raciocínio crítico dos relacionamentos entre tabela fato e dimensões. No projeto, todos 1 para *.<br>
 
-4)	Visuais
-
-
-O que há de diferente no dashboard do PowerBI Week? Obs: os gifs estão em maior qualidade em tela cheia.
+Qual o diferencial do meu projeto? Um DRE com análises horizontal e vertical pela ótica de meses passados. Isto é, do mês desejado até o retrasado. 
 
 ### Home
 Criação de uma tela inicial para o relatório com botões dinâmicos¹.
