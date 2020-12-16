@@ -3,6 +3,50 @@
 <h5 align="right"> Workshop L. Karpinski: Power BI Experience  </h5>
 <h5 align="right"> 23 - 27 de novembro de 2020 </h5>
 
+<i>Income statement, prof and loss statement ou PnL</i>: demonstração de resultado do exercício ou <b>DRE</b>.
+
+<b>Objetivo</b>: insights sobre o desempenho da empresa por meio de sua situação econômica.
+
+<p align="justify"> Na contabilidade há o tripé decisorial, que contempla a situação financeira, endividamento e a situação econômica, para apoiar as decisões do gestor (Marion, 2009). Com o conjunto de dados disponível seremos capazes de analisar a situação econômica por meio da construção de uma DRE. Fluxo de caixa e balanço patrimonial não foram contemplados.</p>
+
+[x] Extração dos dados: relatórios do sistema ERP em planilhas .xls. 
+2. Transformação dos dados: editor power query do PBI - automatização do processo:
+
+2.1. Principais tarefas realizadas:
+  Remoção de linhas vazias, texto por delimitador e colunas duplicadas na base;
+  Definição de cabeçalhos;
+  Alteração do tipo de dado com o local de origem ou pelas configurações regionais (datas e moeda);
+
+Remoção do total e subtotais das contas com os valores: como são cálculos, eles serão calculados por medidas. 
+Os subtotais estão em linhas, vamos eliminá-las de acordo com a “duração” (Lenght) do id deles, ou seja, a quantidade de elementos de cada “célula” da coluna.
+O total está em coluna. Somente remover.
+
+Transformar outras colunas em linhas (unpivot): o conjunto original está em forma de matriz como para os dados clássicos em excel com 3 variáveis: conta, data e valor.
+	No final ficaremos com apenas 3 colunas, em vez de 13, com essas mesmas variáveis. Exemplo:
+
+Conta     | Data1 |Data2|Data3
+--------- | ------|-----|-----
+Exemplo 1 | R$ 10 |R$ 10|R$ 7
+Exemplo 2 | R$ 8  |R$ 7 |R$ 10
+
+Para:
+
+Conta     | Datas |Valor
+--------- | ------|-----
+Exemplo 1 | Data1 |R$ 10
+Exemplo 1 | Data1 |R$  8
+Exemplo 1 | Data2 |R$ 10
+Exemplo 2 | Data2 |R$  7
+Exemplo 2 | Data3 |R$  7
+Exemplo 2 | Data3 |R$ 10
+
+
+3)	Modelagem: 
+Raciocínio crítico dos relacionamentos entre tabela fato e dimensões. No projeto, todos 1 para *.
+
+4)	Visuais
+
+
 O que há de diferente no dashboard do PowerBI Week? Obs: os gifs estão em maior qualidade em tela cheia.
 
 ### Home
