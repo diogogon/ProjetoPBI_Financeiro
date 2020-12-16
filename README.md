@@ -3,16 +3,6 @@
 <h5 align="right"> Workshop L. Karpinski: Power BI Experience  </h5>
 <h5 align="right"> 23 - 27 de novembro de 2020 </h5>
 
-<i>Income statement, prof and loss statement ou PnL</i>: demonstração de resultado do exercício ou <b>DRE</b>.
-
-<p align="justify"> Definir estratégias e ações;Realizar a comparação da situação atual da empresa com a de épocas anteriores;Avaliar disparidades relacionadas a receitas e gastos, faturamento e dificuldades de gestão.
-  
-Esse demonstrativo é utilizado como referência para comparar o desempenho da empresa em relação a períodos anteriores, e não a outros negócios. Embora seu uso seja principalmente interno, o P&L é um dos três relatórios essenciais que uma empresa de capital aberto precisa publicar periodicamente. 
-
-Isto juntamente com o fluxo de caixa e o balanço.
-
-A comparação entre esses documentos pode revelar  width="650" height="400" desencontros entre os gastos e as receitas, mudanças na curva de faturamento e outros sintomas de problemas financeiros.</p>
-
 O que há de diferente no dashboard do PowerBI Week? Obs: os gifs estão em maior qualidade em tela cheia.
 
 ### Home
