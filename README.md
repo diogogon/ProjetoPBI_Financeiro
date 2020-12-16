@@ -8,13 +8,12 @@
 
 <p align="justify"> Na contabilidade há o tripé decisorial, que contempla a situação financeira, endividamento e a situação econômica, para apoiar as decisões do gestor (Marion, 2009). Com o conjunto de dados disponível seremos capazes de analisar a situação econômica por meio da construção de uma DRE. Fluxo de caixa e balanço patrimonial não foram contemplados.</p>
 
-[x] Extração dos dados: relatórios do sistema ERP em planilhas .xls. 
-2. Transformação dos dados: editor power query do PBI - automatização do processo:
-
-2.1. Principais tarefas realizadas:
-  Remoção de linhas vazias, texto por delimitador e colunas duplicadas na base;
-  Definição de cabeçalhos;
-  Alteração do tipo de dado com o local de origem ou pelas configurações regionais (datas e moeda);
+> Extração dos dados: relatórios do sistema ERP em planilhas .xls. 
+> Transformação dos dados: editor power query do PBI - automatização do processo:
+>> Principais tarefas realizadas:
+>> Remoção de linhas vazias, texto por delimitador e colunas duplicadas na base;
+>> Definição de cabeçalhos;
+>> Alteração do tipo de dado com o local de origem ou pelas configurações regionais (datas e moeda);
 
 Remoção do total e subtotais das contas com os valores: como são cálculos, eles serão calculados por medidas. 
 Os subtotais estão em linhas, vamos eliminá-las de acordo com a “duração” (Lenght) do id deles, ou seja, a quantidade de elementos de cada “célula” da coluna.
