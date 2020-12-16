@@ -38,6 +38,8 @@ Exemplo 2 | Data2 |R$  7
 Exemplo 2 | Data3 |R$  7
 Exemplo 2 | Data3 |R$ 10
 
+O PBI trabalha com colunas que devem conter somente um tipo de dado, por isso o tratamento dessas variáveis.
+
 > <b>Modelagem</b>: Raciocínio crítico dos relacionamentos entre tabela fato e dimensões.
 >>
 >> No projeto, todos 1 para *.
