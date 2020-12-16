@@ -8,9 +8,9 @@
 
 <p align="justify"> Na contabilidade há o tripé decisorial, que contempla a situação financeira, endividamento e a situação econômica, para apoiar as decisões do gestor (Marion, 2009). Com o conjunto de dados disponível seremos capazes de analisar a situação econômica por meio da construção de uma DRE. Fluxo de caixa e balanço patrimonial não foram contemplados.</p>
 
-> Extração dos dados: relatórios do sistema ERP em planilhas .xls.
+> <b>Extração dos dados</b>: relatórios do sistema ERP em planilhas .xls.
 
-> Transformação dos dados: editor power query do PBI - automatização do processo. Principais tarefas realizadas:
+> <b>Transformação dos dados</b>: editor power query do PBI - automatização do processo. Principais tarefas realizadas:
 >>
 >> Remoção de linhas vazias, texto por delimitador e colunas duplicadas na base;<br>
 >> Definição de cabeçalhos;<br>
@@ -40,11 +40,12 @@ Exemplo 2 | Data3 |R$ 10
 
 <p></p>
 
->	Modelagem: Raciocínio crítico dos relacionamentos entre tabela fato e dimensões. No projeto, todos 1 para *.
+>	<b>Modelagem</b>: Raciocínio crítico dos relacionamentos entre tabela fato e dimensões.
+>> No projeto, todos 1 para *.
 
 Qual o <b>diferencial</b> do meu projeto? <b>Um DRE com análises horizontal e vertical pela ótica de meses passados. Isto é, do mês desejado até o retrasado.</b> 
 
-> Visuais
+> <b>Visuais</b>
 
 ### Home
 Criação de uma tela inicial para o relatório com botões dinâmicos¹.
