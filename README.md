@@ -83,6 +83,8 @@ O dashboard completo pode ser visto a seguir:
 
 [³Criando um Menu de Filtros Retrátil](https://www.youtube.com/watch?v=xiNJg7NxC7Y) by devAnalytics, Raphael Silva Pacheco, 22 de abr. de 2019
 
+Marion, José Carlos. Contabilidade empresarial. 15. ed. - São Paulo: Atlas, 2009.
+
 ### Autor
 *Diogo Gonçalves*
 > E-mail: dio.goncalves90@gmail.com
