@@ -6,7 +6,7 @@
 <p align="justify"><i>Income statement, prof and loss statement ou PnL</i>: demonstração de resultado do exercício ou <b>DRE</b>.<br>
 <b>Objetivo</b>: insights sobre o desempenho da empresa por meio de sua situação econômica.</p>
 
-<p align="justify"> Na contabilidade há o tripé decisorial, que contempla a situação financeira, endividamento e a situação econômica, para apoiar as decisões do gestor (Marion, 2009). Com o conjunto de dados disponível seremos capazes de analisar a situação econômica por meio da construção de uma DRE. Fluxo de caixa e balanço patrimonial não foram contemplados, e nem o lucro líquido (<i>net income</i>) por falta dos dados, mas podemos construir as análises vertical e horizontal, e calcular a margem operacional. </p>
+<p align="justify"> Na contabilidade há o tripé decisorial, que contempla a situação financeira, endividamento e a situação econômica, para apoiar as decisões do gestor (Marion, 2009). Com o conjunto de dados disponível seremos capazes de analisar a situação econômica por meio da construção de uma DRE. Fluxo de caixa e balanço patrimonial não foram contemplados, e nem o lucro líquido (<i>net income</i>) por falta dos dados, mas podemos construir as <b>análises vertical e horizontal</b>, e calcular a <b>margem operacional</b>. </p>
 
 Para se ter uma ideia, se a Margem Operacional (LOpx100/Receita) for 40%, significa que para cada R$ 1 vendido, $ 0,60 é gasto para produzir e distribuir o produto, sobrando como lucro nas operações $ 0,40.
 
@@ -63,8 +63,9 @@ Mudança no template, painel de filtro e painel de dicionário²³.
 <img src="https://raw.githubusercontent.com/diogogon/myProject_Week_PBI_Karpinski/main/RevenueandMarginAnalysis.gif">
 
 ### Income Statement: 🌟
-Inclusão de novas variáveis no eixo da matriz inexistentes no banco de dados original por meio de uma nova tabela; e<br>
-Atribuição e adaptação de valores para cada variável.
+Inclusão de novas variáveis no eixo da matriz inexistentes no banco de dados original por meio de uma nova tabela; <br>
+Atribuição e adaptação das medidas para cada variável; e <br>
+Análise completa com <i>drill down</i> de todas as contas para cada tipo de análise (AV e AH). 
 
 <img src="https://raw.githubusercontent.com/diogogon/myProject_Week_PBI_Karpinski/main/IncomeStatement.gif">
 
