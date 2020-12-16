@@ -46,7 +46,7 @@ O PBI trabalha com colunas que devem conter somente um tipo de dado, por isso o 
 >>
 >> No projeto, todos 1 para *.
 
-Qual o <b>diferencial</b> do meu projeto? <b>Uma DRE com análises horizontal e vertical pela ótica de meses passados. Isto é, do mês desejado até o retrasado.</b>
+E qual o <b>diferencial</b> do meu projeto? <b>Uma DRE com análises horizontal e vertical pela ótica de meses passados. Isto é, do mês desejado até o retrasado.</b>
 
 Além disso, veremos também outra versão de visuais, cores e template que se adequam à minha preferência.
 
