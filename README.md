@@ -60,8 +60,9 @@ Mudança no template, painel de filtro e painel de dicionário²³.
 
 <img src="https://raw.githubusercontent.com/diogogon/myProject_Week_PBI_Karpinski/main/RevenueandMarginAnalysis.gif">
 
-### Income Statement: 
-
+### Income Statement: :star2:
+* Inclusão de novas variáveis no eixo da matriz inexistentes no banco de dados original por meio de uma nova tabela;
+* Atribuição e adaptação de valores para cada variável;
 <img src="https://raw.githubusercontent.com/diogogon/myProject_Week_PBI_Karpinski/main/IncomeStatement.gif">
 
 ### Financial simulator:
