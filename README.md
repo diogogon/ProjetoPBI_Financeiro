@@ -42,7 +42,7 @@ Exemplo 2 | Data3 |R$ 10
 
 >	Modelagem: Raciocínio crítico dos relacionamentos entre tabela fato e dimensões. No projeto, todos 1 para *.
 
-Qual o diferencial do meu projeto? Um DRE com análises horizontal e vertical pela ótica de meses passados. Isto é, do mês desejado até o retrasado. 
+Qual o <b>diferencial</b> do meu projeto? <b>Um DRE com análises horizontal e vertical pela ótica de meses passados. Isto é, do mês desejado até o retrasado.</b> 
 
 > Visuais
 
