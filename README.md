@@ -12,15 +12,12 @@
 >
 > Transformação dos dados: editor power query do PBI - automatização do processo. Principais tarefas realizadas:
 >>
->> Remoção de linhas vazias, texto por delimitador e colunas duplicadas na base;
->>
->> Definição de cabeçalhos;
->>
->> Alteração do tipo de dado com o local de origem ou pelas configurações regionais (datas e moeda);
->>
+>> Remoção de linhas vazias, texto por delimitador e colunas duplicadas na base;<br>
+>> Definição de cabeçalhos;<br>
+>> Alteração do tipo de dado com o local de origem ou pelas configurações regionais (datas e moeda);<br>
 >> Remoção do total e subtotais das contas com os valores: como são cálculos, eles serão calculados por medidas.<br> 
->>> Os subtotais estão em linhas, vamos eliminá-las de acordo com a “duração” (Lenght) do id deles, ou seja, a quantidade de elementos de cada “célula” da coluna. O total está em coluna. Somente remover.<br>
->> Transformar outras colunas em linhas (unpivot): o conjunto original está em forma de matriz como para os dados clássicos em excel com 3 variáveis: conta, data e valor. No final ficaremos com apenas 3 colunas, em vez de 13, com essas mesmas variáveis. Exemplo:
+>>> Os subtotais estão em linhas, vamos eliminá-las de acordo com a “duração” (Lenght) do id deles, ou seja, a quantidade de elementos de cada “célula” da coluna. O total está em coluna. Somente remover.</p>
+> Transformar outras colunas em linhas (unpivot): o conjunto original está em forma de matriz como para os dados clássicos em excel com 3 variáveis: conta, data e valor. No final ficaremos com apenas 3 colunas, em vez de 13, com essas mesmas variáveis. Exemplo:
 
 Conta     | Data1 |Data2|Data3
 --------- | ------|-----|-----
@@ -37,24 +34,6 @@ Exemplo 1 | Data2 |R$ 10
 Exemplo 2 | Data2 |R$  7
 Exemplo 2 | Data3 |R$  7
 Exemplo 2 | Data3 |R$ 10
-
-<table border="1">
-    <tr>
-        <td>Nome</td>
-        <td>Idade</td>
-        <td>Profissão</td>
-    </tr>
-    <tr>
-        <td>Ted</td>
-        <td>22</td>
-        <td>Estudante</td>
-    </tr>
-    <tr>
-        <td>Ralf</td>
-        <td>26</td>
-        <td>Designer</td>
-    </tr>
-</table>
 
 3)	Modelagem: 
 Raciocínio crítico dos relacionamentos entre tabela fato e dimensões. No projeto, todos 1 para *.
