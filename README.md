@@ -21,6 +21,7 @@ Para se ter uma ideia, se a Margem Operacional (LOpx100/Receita) for 40%, signif
 >> * Os subtotais estão em linhas, vamos eliminá-las de acordo com a “duração” (<i>lenght</i>) do id deles, ou seja, a quantidade de elementos de cada “célula” da coluna. O total está em coluna. Somente remover.<br>
 >>
 >> Transformar outras colunas em linhas (<i>unpivot</i>): o conjunto original está em forma de matriz como para os dados clássicos em excel com 3 variáveis: conta, data e valor. No final ficaremos com apenas 3 colunas, em vez de 13, com essas mesmas variáveis.
+>> * O PBI trabalha com colunas que devem conter somente um tipo de dado, por isso o tratamento dessas variáveis.
 
 Exemplo de <i>unpivot</i> de olho na coluna "Conta":
 
@@ -39,8 +40,6 @@ Exemplo 1 | Data2 |R$ 10
 Exemplo 2 | Data2 |R$  7
 Exemplo 2 | Data3 |R$  7
 Exemplo 2 | Data3 |R$ 10
-
-O PBI trabalha com colunas que devem conter somente um tipo de dado, por isso o tratamento dessas variáveis.
 
 > <b>Modelagem</b>: Raciocínio crítico dos relacionamentos entre tabela fato e dimensões.
 >>
