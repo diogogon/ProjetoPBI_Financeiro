@@ -9,7 +9,7 @@
 <p align="justify"> Na contabilidade há o tripé decisorial, que contempla a situação financeira, endividamento e a situação econômica, para apoiar as decisões do gestor (Marion, 2009). Com o conjunto de dados disponível seremos capazes de analisar a situação econômica por meio da construção de uma DRE. Fluxo de caixa e balanço patrimonial não foram contemplados.</p>
 
 > Extração dos dados: relatórios do sistema ERP em planilhas .xls.
->
+
 > Transformação dos dados: editor power query do PBI - automatização do processo. Principais tarefas realizadas:
 >>
 >> Remoção de linhas vazias, texto por delimitador e colunas duplicadas na base;<br>
@@ -17,7 +17,8 @@
 >> Alteração do tipo de dado com o local de origem ou pelas configurações regionais (datas e moeda);<br>
 >> Remoção do total e subtotais das contas com os valores: como são cálculos, eles serão calculados por medidas.<br> 
 >>> Os subtotais estão em linhas, vamos eliminá-las de acordo com a “duração” (Lenght) do id deles, ou seja, a quantidade de elementos de cada “célula” da coluna. O total está em coluna. Somente remover.</p>
-> Transformar outras colunas em linhas (unpivot): o conjunto original está em forma de matriz como para os dados clássicos em excel com 3 variáveis: conta, data e valor. No final ficaremos com apenas 3 colunas, em vez de 13, com essas mesmas variáveis. Exemplo:
+
+>> Transformar outras colunas em linhas (unpivot): o conjunto original está em forma de matriz como para os dados clássicos em excel com 3 variáveis: conta, data e valor. No final ficaremos com apenas 3 colunas, em vez de 13, com essas mesmas variáveis. Exemplo:
 
 Conta     | Data1 |Data2|Data3
 --------- | ------|-----|-----
