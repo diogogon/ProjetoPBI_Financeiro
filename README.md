@@ -42,6 +42,8 @@ Exemplo 2 | Data3 |R$ 10
 
 Qual o diferencial do meu projeto? Um DRE com análises horizontal e vertical pela ótica de meses passados. Isto é, do mês desejado até o retrasado. 
 
+> Visuais
+
 ### Home
 Criação de uma tela inicial para o relatório com botões dinâmicos¹.
 
