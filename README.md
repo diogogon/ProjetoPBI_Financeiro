@@ -63,7 +63,7 @@ Mudança no template, painel de filtro e painel de dicionário²³.
 <img src="https://raw.githubusercontent.com/diogogon/myProject_Week_PBI_Karpinski/main/RevenueandMarginAnalysis.gif">
 
 ### Income Statement: 🌟
-Inclusão de novas variáveis no eixo da matriz que são inexistentes no banco de dados original por meio de uma nova tabela: <i>Month Last e Month Before Last</i>; <br>
+Inclusão de novas variáveis no eixo da matriz que são inexistentes no banco de dados original - <i>Month Last e Month Before Last</i> - por meio de uma nova tabela; <br>
 Atribuição e adaptação das medidas para cada variável; e <br>
 Análise completa com <i>drill down</i> de todas as contas para cada tipo de análise (AV e AH). 
 
