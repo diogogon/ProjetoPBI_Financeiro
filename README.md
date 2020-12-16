@@ -38,7 +38,7 @@ Exemplo 2 | Data2 |R$  7
 Exemplo 2 | Data3 |R$  7
 Exemplo 2 | Data3 |R$ 10
 
->	<b>Modelagem</b>: Raciocínio crítico dos relacionamentos entre tabela fato e dimensões.
+><b>Modelagem</b>: Raciocínio crítico dos relacionamentos entre tabela fato e dimensões.
 >>
 >> No projeto, todos 1 para *.
 
